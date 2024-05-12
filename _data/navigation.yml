@@ -9,8 +9,8 @@ main:
   #- title: "Education"
   #  url: /teaching/    
     
-  - title: "Awards"
-    url: /portfolio/
+  #- title: "Awards"
+  #  url: /portfolio/
         
   #- title: "Blog Posts"
   #  url: /year-archive/
@@ -18,11 +18,18 @@ main:
   #- title: "CV"
   #  url: /cv/
 
-  - title: "CV"
+  #- title: "CV"
+  #  url: /files/academic-cv.pdf
+
+  - title: "Obesity"
     url: /files/academic-cv.pdf
-    
+  #- title: "CV"
+  #  url: /files/academic-cv.pdf
+  #- title: "CV"
+  #  url: /files/academic-cv.pdf
+
   # - title: "Guide"
   #  url: /markdown/
 
-  - title: "Membership"
+  #- title: "Membership"
     
