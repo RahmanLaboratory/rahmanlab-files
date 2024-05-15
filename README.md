@@ -1,2 +1,2 @@
 # ziad786.github.io
-A personal website made for Ziad Rahman Bhuiyan
+Rahman Laboratory create this website for publishing its online documents
