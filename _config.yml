@@ -21,7 +21,7 @@ repository               : "rahmanlab-files/"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile2024.jpeg"
+  avatar           : #"profile2024.jpeg"
   name             : "Rahman Laboratory"
   pronouns         :  # example: "he/his"  
   bio              : #"WRITER || ESSAYIST || BLOGGER || SOCIAL WORKER || RESEARCHER || SPORTSMAN || PROGRAMMER || OLYMPIADIAN || PHOTOGRAPHER || ARTIST || CALLIGRAPHER || TRAVELLER"

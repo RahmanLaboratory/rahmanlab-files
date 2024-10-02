@@ -20,10 +20,10 @@ main:
 
   #- title: "CV"
   #  url: /files/academic-cv.pdf
-  - title: "Obesity Outline"
+  - title: #"Obesity Outline"
     url: /files/Obesity_Research_Projects_in_details.pdf
 
-  - title: "Obesity"
+  - title: #"Obesity"
     url: /files/volunteer_obesity_research_project_dhaka_high_school_dha.pdf
   #- title: "CV"
   #  url: /files/academic-cv.pdf
